@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>辣椒の酱</title>
+  <title>休闲乡村生活</title>
   
   <subtitle>尚未执佩剑，转眼即江湖</subtitle>
   <link href="/atom.xml" rel="self"/>
   
-  <link href="https://removeif.github.io/"/>
+  <link href="https://localtourism.github.io/"/>
   <updated>2020-07-28T14:23:31.065Z</updated>
-  <id>https://removeif.github.io/</id>
+  <id>https://localtourism.github.io/</id>
   
   <author>
-    <name>辣椒の酱</name>
+    <name>杨李俊</name>
     
   </author>
   
@@ -18,8 +18,8 @@
   
   <entry>
     <title>加密文章测试</title>
-    <link href="https://removeif.github.io/posts/7e709353/"/>
-    <id>https://removeif.github.io/posts/7e709353/</id>
+    <link href="https://localtourism.github.io/posts/7e709353/"/>
+    <id>https://localtourism.github.io/posts/7e709353/</id>
     <published>2020-01-21T02:14:11.000Z</published>
     <updated>2020-07-28T14:23:31.065Z</updated>
     
@@ -32,17 +32,17 @@
     </summary>
     
     
-      <category term="private" scheme="https://removeif.github.io/categories/private/"/>
+      <category term="private" scheme="https://localtourism.github.io/categories/private/"/>
     
     
-      <category term="加密文章" scheme="https://removeif.github.io/tags/%E5%8A%A0%E5%AF%86%E6%96%87%E7%AB%A0/"/>
+      <category term="加密文章" scheme="https://localtourism.github.io/tags/%E5%8A%A0%E5%AF%86%E6%96%87%E7%AB%A0/"/>
     
   </entry>
   
   <entry>
     <title>不蒜子统计常见问题</title>
-    <link href="https://removeif.github.io/posts/89986481/"/>
-    <id>https://removeif.github.io/posts/89986481/</id>
+    <link href="https://localtourism.github.io/posts/89986481/"/>
+    <id>https://localtourism.github.io/posts/89986481/</id>
     <published>2019-12-21T00:46:08.000Z</published>
     <updated>2020-07-28T14:23:31.067Z</updated>
     
@@ -59,19 +59,19 @@
     </summary>
     
     
-      <category term="工具教程" scheme="https://removeif.github.io/categories/%E5%B7%A5%E5%85%B7%E6%95%99%E7%A8%8B/"/>
+      <category term="工具教程" scheme="https://localtourism.github.io/categories/%E5%B7%A5%E5%85%B7%E6%95%99%E7%A8%8B/"/>
     
-      <category term="博客统计插件" scheme="https://removeif.github.io/categories/%E5%B7%A5%E5%85%B7%E6%95%99%E7%A8%8B/%E5%8D%9A%E5%AE%A2%E7%BB%9F%E8%AE%A1%E6%8F%92%E4%BB%B6/"/>
+      <category term="博客统计插件" scheme="https://localtourism.github.io/categories/%E5%B7%A5%E5%85%B7%E6%95%99%E7%A8%8B/%E5%8D%9A%E5%AE%A2%E7%BB%9F%E8%AE%A1%E6%8F%92%E4%BB%B6/"/>
     
     
-      <category term="博客统计插件" scheme="https://removeif.github.io/tags/%E5%8D%9A%E5%AE%A2%E7%BB%9F%E8%AE%A1%E6%8F%92%E4%BB%B6/"/>
+      <category term="博客统计插件" scheme="https://localtourism.github.io/tags/%E5%8D%9A%E5%AE%A2%E7%BB%9F%E8%AE%A1%E6%8F%92%E4%BB%B6/"/>
     
   </entry>
   
   <entry>
     <title>github Issue 作为博客微型数据库的应用</title>
-    <link href="https://removeif.github.io/posts/e7fe3cc/"/>
-    <id>https://removeif.github.io/posts/e7fe3cc/</id>
+    <link href="https://localtourism.github.io/posts/e7fe3cc/"/>
+    <id>https://localtourism.github.io/posts/e7fe3cc/</id>
     <published>2019-11-28T14:02:05.000Z</published>
     <updated>2020-07-28T14:23:31.066Z</updated>
     
@@ -85,19 +85,19 @@
     </summary>
     
     
-      <category term="工具教程" scheme="https://removeif.github.io/categories/%E5%B7%A5%E5%85%B7%E6%95%99%E7%A8%8B/"/>
+      <category term="工具教程" scheme="https://localtourism.github.io/categories/%E5%B7%A5%E5%85%B7%E6%95%99%E7%A8%8B/"/>
     
-      <category term="主题工具" scheme="https://removeif.github.io/categories/%E5%B7%A5%E5%85%B7%E6%95%99%E7%A8%8B/%E4%B8%BB%E9%A2%98%E5%B7%A5%E5%85%B7/"/>
+      <category term="主题工具" scheme="https://localtourism.github.io/categories/%E5%B7%A5%E5%85%B7%E6%95%99%E7%A8%8B/%E4%B8%BB%E9%A2%98%E5%B7%A5%E5%85%B7/"/>
     
     
-      <category term="工具教程" scheme="https://removeif.github.io/tags/%E5%B7%A5%E5%85%B7%E6%95%99%E7%A8%8B/"/>
+      <category term="工具教程" scheme="https://localtourism.github.io/tags/%E5%B7%A5%E5%85%B7%E6%95%99%E7%A8%8B/"/>
     
   </entry>
   
   <entry>
     <title>中华人民共和国国旗法</title>
-    <link href="https://removeif.github.io/posts/79e097c3/"/>
-    <id>https://removeif.github.io/posts/79e097c3/</id>
+    <link href="https://localtourism.github.io/posts/79e097c3/"/>
+    <id>https://localtourism.github.io/posts/79e097c3/</id>
     <published>2019-10-10T12:06:34.000Z</published>
     <updated>2020-07-28T14:23:31.063Z</updated>
     
@@ -118,17 +118,17 @@
     </summary>
     
     
-      <category term="法律" scheme="https://removeif.github.io/categories/%E6%B3%95%E5%BE%8B/"/>
+      <category term="法律" scheme="https://localtourism.github.io/categories/%E6%B3%95%E5%BE%8B/"/>
     
     
-      <category term="法律" scheme="https://removeif.github.io/tags/%E6%B3%95%E5%BE%8B/"/>
+      <category term="法律" scheme="https://localtourism.github.io/tags/%E6%B3%95%E5%BE%8B/"/>
     
   </entry>
   
   <entry>
     <title>中华人民共和国宪法</title>
-    <link href="https://removeif.github.io/posts/bdeb1d7c/"/>
-    <id>https://removeif.github.io/posts/bdeb1d7c/</id>
+    <link href="https://localtourism.github.io/posts/bdeb1d7c/"/>
+    <id>https://localtourism.github.io/posts/bdeb1d7c/</id>
     <published>2019-10-10T10:34:50.000Z</published>
     <updated>2020-07-28T14:23:31.064Z</updated>
     
@@ -149,17 +149,17 @@
     </summary>
     
     
-      <category term="法律" scheme="https://removeif.github.io/categories/%E6%B3%95%E5%BE%8B/"/>
+      <category term="法律" scheme="https://localtourism.github.io/categories/%E6%B3%95%E5%BE%8B/"/>
     
     
-      <category term="法律" scheme="https://removeif.github.io/tags/%E6%B3%95%E5%BE%8B/"/>
+      <category term="法律" scheme="https://localtourism.github.io/tags/%E6%B3%95%E5%BE%8B/"/>
     
   </entry>
   
   <entry>
     <title>github page网站cdn优化加速</title>
-    <link href="https://removeif.github.io/posts/346ce02e/"/>
-    <id>https://removeif.github.io/posts/346ce02e/</id>
+    <link href="https://localtourism.github.io/posts/346ce02e/"/>
+    <id>https://localtourism.github.io/posts/346ce02e/</id>
     <published>2019-09-25T08:41:46.000Z</published>
     <updated>2020-07-28T14:23:31.066Z</updated>
     
@@ -173,19 +173,19 @@
     </summary>
     
     
-      <category term="工具教程" scheme="https://removeif.github.io/categories/%E5%B7%A5%E5%85%B7%E6%95%99%E7%A8%8B/"/>
+      <category term="工具教程" scheme="https://localtourism.github.io/categories/%E5%B7%A5%E5%85%B7%E6%95%99%E7%A8%8B/"/>
     
-      <category term="主题工具" scheme="https://removeif.github.io/categories/%E5%B7%A5%E5%85%B7%E6%95%99%E7%A8%8B/%E4%B8%BB%E9%A2%98%E5%B7%A5%E5%85%B7/"/>
+      <category term="主题工具" scheme="https://localtourism.github.io/categories/%E5%B7%A5%E5%85%B7%E6%95%99%E7%A8%8B/%E4%B8%BB%E9%A2%98%E5%B7%A5%E5%85%B7/"/>
     
     
-      <category term="工具教程" scheme="https://removeif.github.io/tags/%E5%B7%A5%E5%85%B7%E6%95%99%E7%A8%8B/"/>
+      <category term="工具教程" scheme="https://localtourism.github.io/tags/%E5%B7%A5%E5%85%B7%E6%95%99%E7%A8%8B/"/>
     
   </entry>
   
   <entry>
     <title>博客源码分享</title>
-    <link href="https://removeif.github.io/posts/1a54ada2/"/>
-    <id>https://removeif.github.io/posts/1a54ada2/</id>
+    <link href="https://localtourism.github.io/posts/1a54ada2/"/>
+    <id>https://localtourism.github.io/posts/1a54ada2/</id>
     <published>2019-09-19T14:10:43.000Z</published>
     <updated>2020-07-28T14:23:31.068Z</updated>
     
@@ -201,19 +201,19 @@
     </summary>
     
     
-      <category term="工具教程" scheme="https://removeif.github.io/categories/%E5%B7%A5%E5%85%B7%E6%95%99%E7%A8%8B/"/>
+      <category term="工具教程" scheme="https://localtourism.github.io/categories/%E5%B7%A5%E5%85%B7%E6%95%99%E7%A8%8B/"/>
     
-      <category term="主题工具" scheme="https://removeif.github.io/categories/%E5%B7%A5%E5%85%B7%E6%95%99%E7%A8%8B/%E4%B8%BB%E9%A2%98%E5%B7%A5%E5%85%B7/"/>
+      <category term="主题工具" scheme="https://localtourism.github.io/categories/%E5%B7%A5%E5%85%B7%E6%95%99%E7%A8%8B/%E4%B8%BB%E9%A2%98%E5%B7%A5%E5%85%B7/"/>
     
     
-      <category term="工具教程" scheme="https://removeif.github.io/tags/%E5%B7%A5%E5%85%B7%E6%95%99%E7%A8%8B/"/>
+      <category term="工具教程" scheme="https://localtourism.github.io/tags/%E5%B7%A5%E5%85%B7%E6%95%99%E7%A8%8B/"/>
     
   </entry>
   
   <entry>
     <title>博客换肤的一种实现方式思路</title>
-    <link href="https://removeif.github.io/posts/1c5449cf/"/>
-    <id>https://removeif.github.io/posts/1c5449cf/</id>
+    <link href="https://localtourism.github.io/posts/1c5449cf/"/>
+    <id>https://localtourism.github.io/posts/1c5449cf/</id>
     <published>2019-09-17T11:13:16.000Z</published>
     <updated>2020-07-28T14:23:31.067Z</updated>
     
@@ -228,19 +228,19 @@
     </summary>
     
     
-      <category term="工具教程" scheme="https://removeif.github.io/categories/%E5%B7%A5%E5%85%B7%E6%95%99%E7%A8%8B/"/>
+      <category term="工具教程" scheme="https://localtourism.github.io/categories/%E5%B7%A5%E5%85%B7%E6%95%99%E7%A8%8B/"/>
     
-      <category term="主题工具" scheme="https://removeif.github.io/categories/%E5%B7%A5%E5%85%B7%E6%95%99%E7%A8%8B/%E4%B8%BB%E9%A2%98%E5%B7%A5%E5%85%B7/"/>
+      <category term="主题工具" scheme="https://localtourism.github.io/categories/%E5%B7%A5%E5%85%B7%E6%95%99%E7%A8%8B/%E4%B8%BB%E9%A2%98%E5%B7%A5%E5%85%B7/"/>
     
     
-      <category term="工具教程" scheme="https://removeif.github.io/tags/%E5%B7%A5%E5%85%B7%E6%95%99%E7%A8%8B/"/>
+      <category term="工具教程" scheme="https://localtourism.github.io/tags/%E5%B7%A5%E5%85%B7%E6%95%99%E7%A8%8B/"/>
     
   </entry>
   
   <entry>
     <title>博客中gitalk最新评论的获取</title>
-    <link href="https://removeif.github.io/posts/47c45f64/"/>
-    <id>https://removeif.github.io/posts/47c45f64/</id>
+    <link href="https://localtourism.github.io/posts/47c45f64/"/>
+    <id>https://localtourism.github.io/posts/47c45f64/</id>
     <published>2019-09-12T17:03:06.000Z</published>
     <updated>2020-07-28T14:23:31.067Z</updated>
     
@@ -255,21 +255,21 @@
     </summary>
     
     
-      <category term="工具教程" scheme="https://removeif.github.io/categories/%E5%B7%A5%E5%85%B7%E6%95%99%E7%A8%8B/"/>
+      <category term="工具教程" scheme="https://localtourism.github.io/categories/%E5%B7%A5%E5%85%B7%E6%95%99%E7%A8%8B/"/>
     
-      <category term="主题工具" scheme="https://removeif.github.io/categories/%E5%B7%A5%E5%85%B7%E6%95%99%E7%A8%8B/%E4%B8%BB%E9%A2%98%E5%B7%A5%E5%85%B7/"/>
+      <category term="主题工具" scheme="https://localtourism.github.io/categories/%E5%B7%A5%E5%85%B7%E6%95%99%E7%A8%8B/%E4%B8%BB%E9%A2%98%E5%B7%A5%E5%85%B7/"/>
     
     
-      <category term="icarus主题配置" scheme="https://removeif.github.io/tags/icarus%E4%B8%BB%E9%A2%98%E9%85%8D%E7%BD%AE/"/>
+      <category term="icarus主题配置" scheme="https://localtourism.github.io/tags/icarus%E4%B8%BB%E9%A2%98%E9%85%8D%E7%BD%AE/"/>
     
-      <category term="hexo主题" scheme="https://removeif.github.io/tags/hexo%E4%B8%BB%E9%A2%98/"/>
+      <category term="hexo主题" scheme="https://localtourism.github.io/tags/hexo%E4%B8%BB%E9%A2%98/"/>
     
   </entry>
   
   <entry>
     <title>中华人民共和国消费者权益保护法</title>
-    <link href="https://removeif.github.io/posts/945e951b/"/>
-    <id>https://removeif.github.io/posts/945e951b/</id>
+    <link href="https://localtourism.github.io/posts/945e951b/"/>
+    <id>https://localtourism.github.io/posts/945e951b/</id>
     <published>2019-08-21T09:43:57.000Z</published>
     <updated>2020-07-28T14:23:31.065Z</updated>
     
@@ -290,17 +290,17 @@
     </summary>
     
     
-      <category term="法律" scheme="https://removeif.github.io/categories/%E6%B3%95%E5%BE%8B/"/>
+      <category term="法律" scheme="https://localtourism.github.io/categories/%E6%B3%95%E5%BE%8B/"/>
     
     
-      <category term="法律" scheme="https://removeif.github.io/tags/%E6%B3%95%E5%BE%8B/"/>
+      <category term="法律" scheme="https://localtourism.github.io/tags/%E6%B3%95%E5%BE%8B/"/>
     
   </entry>
   
   <entry>
     <title>中华人民共和国刑事诉讼法</title>
-    <link href="https://removeif.github.io/posts/a49f841a/"/>
-    <id>https://removeif.github.io/posts/a49f841a/</id>
+    <link href="https://localtourism.github.io/posts/a49f841a/"/>
+    <id>https://localtourism.github.io/posts/a49f841a/</id>
     <published>2019-08-21T09:43:56.000Z</published>
     <updated>2020-07-28T14:23:31.062Z</updated>
     
@@ -320,17 +320,17 @@
     </summary>
     
     
-      <category term="法律" scheme="https://removeif.github.io/categories/%E6%B3%95%E5%BE%8B/"/>
+      <category term="法律" scheme="https://localtourism.github.io/categories/%E6%B3%95%E5%BE%8B/"/>
     
     
-      <category term="法律" scheme="https://removeif.github.io/tags/%E6%B3%95%E5%BE%8B/"/>
+      <category term="法律" scheme="https://localtourism.github.io/tags/%E6%B3%95%E5%BE%8B/"/>
     
   </entry>
   
   <entry>
     <title>中华人民共和国劳动法</title>
-    <link href="https://removeif.github.io/posts/2f621441/"/>
-    <id>https://removeif.github.io/posts/2f621441/</id>
+    <link href="https://localtourism.github.io/posts/2f621441/"/>
+    <id>https://localtourism.github.io/posts/2f621441/</id>
     <published>2019-08-21T09:43:55.000Z</published>
     <updated>2020-07-28T14:23:31.063Z</updated>
     
@@ -345,17 +345,17 @@
     </summary>
     
     
-      <category term="法律" scheme="https://removeif.github.io/categories/%E6%B3%95%E5%BE%8B/"/>
+      <category term="法律" scheme="https://localtourism.github.io/categories/%E6%B3%95%E5%BE%8B/"/>
     
     
-      <category term="法律" scheme="https://removeif.github.io/tags/%E6%B3%95%E5%BE%8B/"/>
+      <category term="法律" scheme="https://localtourism.github.io/tags/%E6%B3%95%E5%BE%8B/"/>
     
   </entry>
   
   <entry>
     <title>中华人民共和国婚姻法</title>
-    <link href="https://removeif.github.io/posts/79431e7f/"/>
-    <id>https://removeif.github.io/posts/79431e7f/</id>
+    <link href="https://localtourism.github.io/posts/79431e7f/"/>
+    <id>https://localtourism.github.io/posts/79431e7f/</id>
     <published>2019-08-21T09:43:54.000Z</published>
     <updated>2020-07-28T14:23:31.064Z</updated>
     
@@ -374,17 +374,17 @@
     </summary>
     
     
-      <category term="法律" scheme="https://removeif.github.io/categories/%E6%B3%95%E5%BE%8B/"/>
+      <category term="法律" scheme="https://localtourism.github.io/categories/%E6%B3%95%E5%BE%8B/"/>
     
     
-      <category term="法律" scheme="https://removeif.github.io/tags/%E6%B3%95%E5%BE%8B/"/>
+      <category term="法律" scheme="https://localtourism.github.io/tags/%E6%B3%95%E5%BE%8B/"/>
     
   </entry>
   
   <entry>
     <title>中华人民共和国网络安全法</title>
-    <link href="https://removeif.github.io/posts/b81fa239/"/>
-    <id>https://removeif.github.io/posts/b81fa239/</id>
+    <link href="https://localtourism.github.io/posts/b81fa239/"/>
+    <id>https://localtourism.github.io/posts/b81fa239/</id>
     <published>2019-08-08T13:46:09.000Z</published>
     <updated>2020-07-28T14:23:31.065Z</updated>
     
@@ -399,17 +399,17 @@
     </summary>
     
     
-      <category term="法律" scheme="https://removeif.github.io/categories/%E6%B3%95%E5%BE%8B/"/>
+      <category term="法律" scheme="https://localtourism.github.io/categories/%E6%B3%95%E5%BE%8B/"/>
     
     
-      <category term="法律" scheme="https://removeif.github.io/tags/%E6%B3%95%E5%BE%8B/"/>
+      <category term="法律" scheme="https://localtourism.github.io/tags/%E6%B3%95%E5%BE%8B/"/>
     
   </entry>
   
   <entry>
     <title>博客图片上传picgo工具github图传使用</title>
-    <link href="https://removeif.github.io/posts/9e7c733f/"/>
-    <id>https://removeif.github.io/posts/9e7c733f/</id>
+    <link href="https://localtourism.github.io/posts/9e7c733f/"/>
+    <id>https://localtourism.github.io/posts/9e7c733f/</id>
     <published>2019-06-20T09:31:57.000Z</published>
     <updated>2020-07-28T14:23:31.067Z</updated>
     
@@ -424,19 +424,19 @@
     </summary>
     
     
-      <category term="工具教程" scheme="https://removeif.github.io/categories/%E5%B7%A5%E5%85%B7%E6%95%99%E7%A8%8B/"/>
+      <category term="工具教程" scheme="https://localtourism.github.io/categories/%E5%B7%A5%E5%85%B7%E6%95%99%E7%A8%8B/"/>
     
-      <category term="主题工具" scheme="https://removeif.github.io/categories/%E5%B7%A5%E5%85%B7%E6%95%99%E7%A8%8B/%E4%B8%BB%E9%A2%98%E5%B7%A5%E5%85%B7/"/>
+      <category term="主题工具" scheme="https://localtourism.github.io/categories/%E5%B7%A5%E5%85%B7%E6%95%99%E7%A8%8B/%E4%B8%BB%E9%A2%98%E5%B7%A5%E5%85%B7/"/>
     
     
-      <category term="工具教程" scheme="https://removeif.github.io/tags/%E5%B7%A5%E5%85%B7%E6%95%99%E7%A8%8B/"/>
+      <category term="工具教程" scheme="https://localtourism.github.io/tags/%E5%B7%A5%E5%85%B7%E6%95%99%E7%A8%8B/"/>
     
   </entry>
   
   <entry>
     <title>安装、部分配置icarus主题中文版</title>
-    <link href="https://removeif.github.io/posts/52c38f29/"/>
-    <id>https://removeif.github.io/posts/52c38f29/</id>
+    <link href="https://localtourism.github.io/posts/52c38f29/"/>
+    <id>https://localtourism.github.io/posts/52c38f29/</id>
     <published>2019-02-28T02:36:56.000Z</published>
     <updated>2020-07-28T14:23:31.068Z</updated>
     
@@ -451,14 +451,14 @@
     </summary>
     
     
-      <category term="工具教程" scheme="https://removeif.github.io/categories/%E5%B7%A5%E5%85%B7%E6%95%99%E7%A8%8B/"/>
+      <category term="工具教程" scheme="https://localtourism.github.io/categories/%E5%B7%A5%E5%85%B7%E6%95%99%E7%A8%8B/"/>
     
-      <category term="主题工具" scheme="https://removeif.github.io/categories/%E5%B7%A5%E5%85%B7%E6%95%99%E7%A8%8B/%E4%B8%BB%E9%A2%98%E5%B7%A5%E5%85%B7/"/>
+      <category term="主题工具" scheme="https://localtourism.github.io/categories/%E5%B7%A5%E5%85%B7%E6%95%99%E7%A8%8B/%E4%B8%BB%E9%A2%98%E5%B7%A5%E5%85%B7/"/>
     
     
-      <category term="icarus主题配置" scheme="https://removeif.github.io/tags/icarus%E4%B8%BB%E9%A2%98%E9%85%8D%E7%BD%AE/"/>
+      <category term="icarus主题配置" scheme="https://localtourism.github.io/tags/icarus%E4%B8%BB%E9%A2%98%E9%85%8D%E7%BD%AE/"/>
     
-      <category term="hexo主题" scheme="https://removeif.github.io/tags/hexo%E4%B8%BB%E9%A2%98/"/>
+      <category term="hexo主题" scheme="https://localtourism.github.io/tags/hexo%E4%B8%BB%E9%A2%98/"/>
     
   </entry>
   
